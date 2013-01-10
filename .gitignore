@@ -1,0 +1,22 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# data files
+*.data
+*.raw
+*.gz
+*.tagged
+*.tgr
+*.out
+
+# Config Files #
+.settings
+.project
+.classpath
+
+# output #
+output
